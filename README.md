@@ -3,6 +3,17 @@
 La poule qui chante, entreprise de production de volailles souhaite exporter ses produits à l'international. Nous allons utiliser des méthodes statistiques (CAH, k-means et ACP) pour identifier des groupes de pays avec des caractéristiques similaires et adapter ses stratégies d'exportation en fonction.
 
 
+Nettoyage de données.   
+Réaliser un clustering : K-means et dendrogramme.  
+
+Réalisation de graphiques type carte du monde.  
+ 
+Analyses uni et bi variées des données.  
+
+Visualisation des données.  
+
+
+
 
 ### Les donées:  
 Zone (Pays).  
